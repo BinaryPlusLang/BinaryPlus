@@ -1,0 +1,1 @@
+To build the project, use this command: npx pkg ./src/interpreter.js --targets node16-linux-x64,node16-macos-x64,node16-win-x64
